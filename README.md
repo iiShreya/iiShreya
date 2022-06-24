@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 hey!
 
-![alt text](https://w0.peakpx.com/wallpaper/803/135/HD-wallpaper-dark-logo-dark-netflix-dark-season-dark-web-series-german-sci-fi-thriller.jpg)
+![alt text](https://static1.srcdn.com/wordpress/wp-content/uploads/2020/09/Brainiac-Mother-Box-AI-DC.png?q=50&fit=crop&w=960&h=500&dpr=1.5))
