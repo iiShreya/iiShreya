@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 hey!
 
-![alt text](https://static1.srcdn.com/wordpress/wp-content/uploads/2020/09/Brainiac-Mother-Box-AI-DC.png?q=50&fit=crop&w=960&h=500&dpr=1.5))
+![alt text](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
