@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 hey!
-Can pictures do all the talking for me?
-Thanks!
+
 ![alt text](https://w0.peakpx.com/wallpaper/803/135/HD-wallpaper-dark-logo-dark-netflix-dark-season-dark-web-series-german-sci-fi-thriller.jpg)
