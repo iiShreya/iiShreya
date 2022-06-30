@@ -15,5 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Me in a nutshell:
+
+```diff
+
+@@ reinforcement learning
+@@ coding
+@@ cooking
+@@ strong coffee
+@@ chocolates!
+@@ playing the guitar
+@@ reading 
+@@ blogging!
+```
 
 
