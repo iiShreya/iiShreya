@@ -21,12 +21,12 @@ Me in a nutshell:
 
 - reinforcement learning
 - coding
-@@ cooking
-@@ strong coffee
-@@ chocolates!
-@@ playing the guitar
-@@ reading 
-@@ blogging! 
+- cooking
+- strong coffee
+- chocolates!
+- playing the guitar
+- reading 
+- blogging! 
 ```
 
 
