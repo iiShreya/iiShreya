@@ -26,7 +26,7 @@ Me in a nutshell:
 @@ chocolates!
 @@ playing the guitar
 @@ reading 
-@@ blogging!
+@@ blogging! 
 ```
 
 
