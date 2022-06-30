@@ -19,8 +19,8 @@ Me in a nutshell:
 
 ```diff
 
-@@ reinforcement learning
-@@ coding
+- reinforcement learning
+- coding
 @@ cooking
 @@ strong coffee
 @@ chocolates!
