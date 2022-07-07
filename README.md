@@ -20,6 +20,7 @@ Me in a nutshell:
 ```diff
 
 - reinforcement learning
+- game development
 - coding
 - cooking
 - strong coffee
